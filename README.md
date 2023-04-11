@@ -6,6 +6,7 @@ While looking for something open source to contribute to, there are two importan
 
 # My fields of interest 
 -- Computer vision
+\
 	-- Image processing 
 		-- OpenCV
 	-- Deep learning
