@@ -7,11 +7,16 @@ While looking for something open source to contribute to, there are two importan
 # My fields of interest 
 -- Computer vision
 \
-	-- Image processing 
+		-- Image processing
+\ 
 		-- OpenCV
+\
 	-- Deep learning
+\
 		-- Pytorch
+\
 -- 3D computer vision
+\
 	-- 3D data algorithms(point cloud, meshes)
 		--Trimesh
 	-- 3D deep learning
