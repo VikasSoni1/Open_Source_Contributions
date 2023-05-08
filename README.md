@@ -26,3 +26,8 @@ While looking for something open source to contribute to, there are two importan
 Next Step.
 	-- Read pytorch3d and understand how code is managed.
 	-- Find some fucntions which are not there and are helpful.
+
+
+We are going to talk about one startup with open source code in AI here.
+
+Day 1: Instill AI.
