@@ -30,4 +30,6 @@ Next Step.
 
 We are going to talk about one startup with open source code in AI here.
 
-Day 1: Instill AI.
+Day 1: Kornia-- Differentiable functions for image processing so that they can be used in a neural network.
+
+
