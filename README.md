@@ -32,4 +32,6 @@ We are going to talk about one startup with open source code in AI here.
 
 Day 1: Kornia-- Differentiable functions for image processing so that they can be used in a neural network.
 
+Trends: A lot of startups are working on MLOps.
+LLMs are big thing now giving rise to large foundational models.
 
