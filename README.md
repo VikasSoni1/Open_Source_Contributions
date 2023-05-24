@@ -38,6 +38,6 @@ Trends:
 3.Diffusion based image generation models are a trend.
 4. RL based methods.
 
-To Do:- One cotribution daily.
+To Do:- Find one startup which is hiring and have a open source code in computer vision.
 
 
