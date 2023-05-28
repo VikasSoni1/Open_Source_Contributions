@@ -1,0 +1,5 @@
+There are three major things you can contribute to hugging face.
+1. Adding a new model for task that already exists.
+2. Adding a new task ( pipeline and models).
+3. Adding dcoumentation for a purpose.
+
